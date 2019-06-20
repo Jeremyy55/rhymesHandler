@@ -11,7 +11,7 @@ nourriture
 ordure, ossature
 parrure,salissure, peinture, perdure, pourriture, progéniture, pâtures
 rature
-serrure,, signature, structure, suture, sûr
-teinture, température, ture
+salissure, serrure,, signature, structure, suture, sûr
+teinture, température
 verdure, voiture
 écorchure, écriture
